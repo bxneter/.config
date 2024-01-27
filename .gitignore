@@ -1,0 +1,12 @@
+*
+!.gitignore
+!README.md
+
+# `fish` configuration files
+!fish
+!fish/config.fish
+!fish/functions
+!fish/functions/fish_greeting.fish
+
+# `starship` configuration files
+!starship.toml
